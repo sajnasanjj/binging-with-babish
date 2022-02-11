@@ -149,7 +149,7 @@
 
 }
 .patreon{
-    background-image: url("/images/noodles.jpg");
+    background-image: url("./images/noodles.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
